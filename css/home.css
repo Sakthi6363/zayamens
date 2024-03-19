@@ -1,0 +1,82 @@
+nav{
+    color:black ;
+    background-color: rgb(202, 96, 183);
+    padding-top: 20px;
+    padding-bottom: 5px;
+    
+}
+
+a{
+    color:black;
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+}
+
+h1{
+    text-align: center;
+}
+li,ul{
+    display: inline ;
+    margin-left: 3px;
+}
+
+ul{
+    margin-left: 70%;
+}
+li{
+    color: gray;
+    
+{
+    background: url(Sky.jpg);
+}
+
+}
+ ul,li:hover{
+    color: white;
+    cursor: pointer;
+
+}
+input{
+    width: 60%;
+    margin-top: 30px;
+    margin-left: 200px;
+    margin-bottom: 100px;
+
+
+}
+img{
+    width: 220px;
+    height: 220px;
+    padding-bottom: 200px;
+
+
+}
+.box{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 220px;
+    margin-left: 150px;
+    margin: top 100px;
+    margin-bottom:70px ;
+
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+}
+.contact{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    
+}
+
+
+

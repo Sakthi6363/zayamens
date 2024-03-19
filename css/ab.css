@@ -1,0 +1,41 @@
+body{
+    color: black;
+    background: url(Sky.jpg);
+    display:cover;
+    
+h3{
+    padding-top: 25%;
+}
+
+nav{
+    color: aliceblue;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 5px;
+
+    color: white;
+}
+
+h1{
+    text-align: center;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+center{
+    padding-top: 10%;
+}
+a:hover{
+    color: blue;
+}
+li,ul{
+    display: inline ;
+}
+
+ul{
+    margin-left: 70%;
+}
+li{
+    color: gray;
+    

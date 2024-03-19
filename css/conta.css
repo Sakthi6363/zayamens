@@ -1,0 +1,69 @@
+body{
+    color: black;
+    background: url(Sky.jpg);
+    display:cover;
+    
+h3{
+    padding-top: 20%;
+}
+
+nav{
+    color: aliceblue;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 5px;
+
+    color: white;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+ 
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  
+  
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-instagram {
+    background: #55ACEE;
+    color: white;
+  }
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+}
+
+h1{
+    text-align: center;
+}
+li,ul{
+    display: inline ;
+}
+
+ul{
+    margin-left: 70%;
+}
+li{
+    color: gray;
+    
